@@ -3,27 +3,31 @@ Eaze is a mobile application that allows clients in supermarkets to do have a fu
 Eaze is a point of connection between supermarkets and their clients , permetting them to vehicule instant informationa about promotions 
 and discounts to their clients .
 
-Working features :
+#Working features :
 
 Consult the products: The customer can consult the products classified by categories, price, specificity, availability: gluten free, sugar free, vegan etc ...
+
 Define the shopping list beforehand: The customer can fill a list with product and have an idea on the price, save it for use when he arrives at the store.
+
 Receive notifications: The customer can receive the latest offers, promotions and recommendations according to his habits and means.
+
 Any customer will have the right to modify their profile, view their purchase history, view their profile and deactivate their account
 Consult the list of desired purchases: the customer can consult the list of shopping already prepared
+
 Manage geolocation: the customer can consult his position in the store and have the least congested path to complete a specific department consult products and categories: the customer can view products, categories, view total
 
 
-Features to do : 
+#Features to do : 
+
 Consult the loyalty points: The customer can consult his loyalty points transform them into gifts and take advantage of the reductions.
+
 Demander de l'assistance  : le client peut demander un personnel pour l’assister
+
 Manage payments: the customer can pay with various means of payment and have a receipt in return 
 
 
+#Prerequisites
 
-
-
-
-Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 You have installed the latest version of Flutter SDK .
