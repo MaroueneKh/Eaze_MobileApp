@@ -5,25 +5,25 @@ and discounts to their clients .
 
 #Working features :
 
-Consult the products: The customer can consult the products classified by categories, price, specificity, availability: gluten free, sugar free, vegan etc ...
+-Consult the products: The customer can consult the products classified by categories, price, specificity, availability: gluten free, sugar free, vegan etc ...
 
-Define the shopping list beforehand: The customer can fill a list with product and have an idea on the price, save it for use when he arrives at the store.
+-Define the shopping list beforehand: The customer can fill a list with product and have an idea on the price, save it for use when he arrives at the store.
 
-Receive notifications: The customer can receive the latest offers, promotions and recommendations according to his habits and means.
+-Receive notifications: The customer can receive the latest offers, promotions and recommendations according to his habits and means.
 
-Any customer will have the right to modify their profile, view their purchase history, view their profile and deactivate their account
-Consult the list of desired purchases: the customer can consult the list of shopping already prepared
+-Any customer will have the right to modify their profile, view their purchase history, view their profile and deactivate their account
+-Consult the list of desired purchases: the customer can consult the list of shopping already prepared
 
-Manage geolocation: the customer can consult his position in the store and have the least congested path to complete a specific department consult products and categories: the customer can view products, categories, view total
+-Manage geolocation: the customer can consult his position in the store and have the least congested path to complete a specific department consult products and categories: the customer can view products, categories, view total
 
 
 #Features to do : 
 
-Consult the loyalty points: The customer can consult his loyalty points transform them into gifts and take advantage of the reductions.
+-Consult the loyalty points: The customer can consult his loyalty points transform them into gifts and take advantage of the reductions.
 
-Demander de l'assistance  : le client peut demander un personnel pour l’assister
+-Ask for assitance  : clients can ask for assitance in a certail aisle
 
-Manage payments: the customer can pay with various means of payment and have a receipt in return 
+-Manage payments: the customer can pay with various means of payment and have a receipt in return 
 
 
 #Prerequisites
